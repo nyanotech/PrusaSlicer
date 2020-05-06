@@ -1,8 +1,9 @@
 #ifndef slic3r_GUI_NotificationManager_hpp_
-#define slic3r_GUI_notificationManager_hpp_
+#define slic3r_GUI_NotificationManager_hpp_
 
 #include <string>
 #include <vector>
+#include <deque>
 
 namespace Slic3r {
 namespace GUI {
